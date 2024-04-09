@@ -1,4 +1,24 @@
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/justinmunos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/justinmunos/" height="30" width="40" /></a>
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub README</title>
+</head>
+<body>
+
+<h1>Hey there! 👋 I'm Justin Munos.</h1>
+
+<h2>🚀 Some of my recent projects include:</h2>
+<ul>
+    <li><a href="link-to-project-a">Project A</a>: A web app that simplifies task management.</li>
+    <li><a href="link-to-project-b">Project B</a>: An AI-driven chatbot for customer support.</li>
+</ul>
+
+<h2>Connect with me:</h2>
+<p>Let's connect and collaborate on exciting projects! You can reach me through <a href="https://www.linkedin.com/in/justinmunos/">LinkedIn</a> or check out more of my work on <a href="https://www.example.com">my portfolio website</a>.</p>
+
+<a href="https://www.linkedin.com/in/justinmunos/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"></a>
+
+</body>
+</html>
