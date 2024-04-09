@@ -9,12 +9,6 @@
 
 <h1>Hey there! 👋 I'm Justin Munos.</h1>
 
-<h2>🚀 Some of my recent projects include:</h2>
-<ul>
-    <li><a href="link-to-project-a">Project A</a>: A web app that simplifies task management.</li>
-    <li><a href="link-to-project-b">Project B</a>: An AI-driven chatbot for customer support.</li>
-</ul>
-
 <h2>Connect with me:</h2>
 <p>Let's connect and collaborate on exciting projects! You can reach me through <a href="https://www.linkedin.com/in/justinmunos/">LinkedIn</a> or check out more of my work on <a href="https://www.example.com">my portfolio website</a>.</p>
 
